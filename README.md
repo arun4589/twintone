@@ -56,7 +56,7 @@ This separation enables flexible AI usage in both relaxed and serious contexts.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-prompt-style-generator.git
+git clone https://github.com/arun4589/twintone.git
 cd ai_microservice_project
 ```
 ### 2.Setup Virtual Environment
