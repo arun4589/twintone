@@ -14,7 +14,7 @@ All interactions are saved in a PostgreSQL database and displayed in a responsiv
 -- Prompt engineering with two distinct response styles  
 -- FastAPI microservice backend  
 -- PostgreSQL database integration  
--- Local AI model execution with [Ollama](https://ollama.com) + [Mistral](https://ollama.com/library/mistral)  
+-- Local AI model execution with ollama
 -- Streamlit web UI  
 -- API to fetch interaction history  
 -- Ready for local development and extension
